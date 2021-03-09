@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+}
+
+.FirstColumn {
+  width: 50%;
+}
+
+.SecondColumn {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+.Img {
+  width: 500px;
+}
